@@ -1,7 +1,7 @@
 ---
 name: ppt-workflow
 description: PPT 完整製作工作鏈 — 從文檔分析、框架搭建、配色排版、圖表製作到多媒體嵌入。一鍵產出醫學級專業演示文稿。
-version: 1.0.0
+version: 1.1.0
 ---
 
 # PPT 製作全流程工作鏈
@@ -118,7 +118,7 @@ version: 1.0.0
 
 ## Phase 5: 圖表製作
 
-**載入 Skills:** `baoyu-infographic` `architecture-diagram` `excalidraw` `dashboard-builder`
+**載入 Skills:** `baoyu-infographic` `architecture-diagram` `excalidraw` `dashboard-builder` `cli-anything-drawio` `cli-anything-mermaid`
 
 **圖表選擇指南:**
 | 數據類型 | 圖表 | Skill |
